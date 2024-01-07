@@ -1,0 +1,8 @@
+{
+    "name": "Related Questions",
+    "description": "The plugin suggests related questions.",
+    "author_name": "Pazoff",
+    "tags": "related,questions",
+    "plugin_url": "https://github.com/pazoff/Related-Questions-Plugin",
+    "version": "0.0.1"
+}
