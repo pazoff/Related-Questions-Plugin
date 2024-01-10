@@ -4,5 +4,6 @@
     "author_name": "Pazoff",
     "tags": "related,questions",
     "plugin_url": "https://github.com/pazoff/Related-Questions-Plugin",
+    "thumb": "https://raw.githubusercontent.com/pazoff/Related-Questions-Plugin/main/related-logo.jpg",
     "version": "0.0.1"
 }
