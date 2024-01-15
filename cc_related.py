@@ -25,7 +25,7 @@ def before_cat_reads_message(user_message_json: dict, cat):
 
     if is_question(message):
 
-     related_questions = cat.llm("write 3 related questions of the question: " + message)
+     related_questions = cat.llm("write 3 related questions of the question: " + message + " Return every question with a link <a href and parameter for https://www.phind.com/search?q=question. The link should open in a new window")
 
     
     return user_message_json
