@@ -1,4 +1,6 @@
 # Related Questions Plugin for Cheshire Cat
+Turn ★ into ⭐ (top-right corner) if you like the project!
+
 <img width="50%" src="https://raw.githubusercontent.com/pazoff/Related-Questions-Plugin/main/related-logo.jpg">
 
 This Python plugin for the [Cheshire Cat framework](https://github.com/cheshire-cat-ai/core) suggests related questions based on user input. If the user's sentence ends with a question mark ("?"), it becomes the subject for generating three related questions, which are then appended to the Cat's answer.
